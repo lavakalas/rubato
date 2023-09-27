@@ -1,12 +1,12 @@
 # rubato
 
-- [Background and explanation](#background)
-- [How to actually use it](#usage)
-- [But why though?](#why)
-- [Arguments and Methods](#arguments-methods)
-- [Custom Easing Functions](#easing)
+- [Background and explanation](#background-and-explanation)
+- [How to actually use it](#how-to-actually-use-it)
+- [But why though?](#but-why-though)
+- [Arguments and Methods](#arguments-and-methods)
+- [Custom Easing Functions](#custom-easing-functions)
 - [Installation](#installation)
-- [Why the name?](#name)
+- [Why the name?](#why-the-name)
 - [Todo](#todo)
 
 Basically like [awestore](https://github.com/K4rakara/awestore) but not really.
